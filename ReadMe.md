@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a full stack web development project using Python, React and Django<br>👯 I’m looking for opportunities in the field of Data Science and web development<br>🌱 I’m a self-taught data analyst and full stack web developer<br>💬 Ask me about anything related to these fields<br>⚡ Fun fact: I have two Master's (Cybersecurity and Data Science)
+🔭 I’m currently working on data analysis projects using Python<br>👯 I’m looking for opportunities in the field of Data Science<br>🌱 I’m a self-taught data analyst<br>💬 Ask me about anything related to this field<br>⚡ Fun fact: I have two Master's (Cybersecurity and Data Science)
 
 
 ## 🌐 Socials:
