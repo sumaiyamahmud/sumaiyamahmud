@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Data Analyst and working various data analysis projects using Python<br>👯 I’m looking for opportunities in the field of Data Science<br>🌱 I’m a self-taught data analyst<br>💬 Ask me about anything related to this field<br>⚡ Fun fact: I have two Master's (Cybersecurity and Data Science)
+🔭 I’m currently working as a Data Analyst and working various on data analysis projects using Python, SQL, Power BI, Tableau<br>👯 I’m looking for opportunities in the field of Data Science<br>🌱 I’m a self-taught data analyst<br>💬 Ask me about anything related to this field<br>⚡ Fun fact: I have two Master's degrees (Cybersecurity and Data Science)
 
 
 ## 🌐 Socials:
